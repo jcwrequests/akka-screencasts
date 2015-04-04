@@ -4,6 +4,9 @@
 
 1. Create a GitHub Account - https://github.com/
 2. Install GitHub for Windows which will install the command line tool and GUI
+	1. https://help.github.com/articles/set-up-git/
+	2. TIP:  https://help.github.com/articles/set-up-git/
+		1. git config --global credential.helper wincred
 3. Go to Akka.net site https://github.com/akkadotnet/akka.net
 4. Fork the project
 5. Clone Forked locally
