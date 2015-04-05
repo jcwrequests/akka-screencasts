@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="19cm" height="17cm" viewBox="92 94 371 338" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="281.329,95.1 298.471,95.1 309.9,106.529 309.9,123.671 298.471,135.1 281.329,135.1 269.9,123.671 269.9,106.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="281.329,95.1 298.471,95.1 309.9,106.529 309.9,123.671 298.471,135.1 281.329,135.1 269.9,123.671 269.9,106.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="281.329,95.1 298.471,95.1 309.9,106.529 309.9,123.671 298.471,135.1 281.329,135.1 269.9,123.671 269.9,106.529 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="273.329,324.1 290.471,324.1 301.9,335.529 301.9,352.671 290.471,364.1 273.329,364.1 261.9,352.671 261.9,335.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="273.329,324.1 290.471,324.1 301.9,335.529 301.9,352.671 290.471,364.1 273.329,364.1 261.9,352.671 261.9,335.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="273.329,324.1 290.471,324.1 301.9,335.529 301.9,352.671 290.471,364.1 273.329,364.1 261.9,352.671 261.9,335.529 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="92.9" y="124.1">
+    <tspan x="92.9" y="124.1">Akka.net Dev Branch</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="100.9" y="341.1">
+    <tspan x="100.9" y="341.1">Forked Copy</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="332.329,391.1 349.471,391.1 360.9,402.529 360.9,419.671 349.471,431.1 332.329,431.1 320.9,419.671 320.9,402.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="332.329,391.1 349.471,391.1 360.9,402.529 360.9,419.671 349.471,431.1 332.329,431.1 320.9,419.671 320.9,402.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="332.329,391.1 349.471,391.1 360.9,402.529 360.9,419.671 349.471,431.1 332.329,431.1 320.9,419.671 320.9,402.529 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="369.329,96.1 386.471,96.1 397.9,107.529 397.9,124.671 386.471,136.1 369.329,136.1 357.9,124.671 357.9,107.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="369.329,96.1 386.471,96.1 397.9,107.529 397.9,124.671 386.471,136.1 369.329,136.1 357.9,124.671 357.9,107.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="369.329,96.1 386.471,96.1 397.9,107.529 397.9,124.671 386.471,136.1 369.329,136.1 357.9,124.671 357.9,107.529 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="286.9" y="119.1">
+    <tspan x="286.9" y="119.1">A</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="282.852" y="345.052">
+    <tspan x="282.852" y="345.052">A</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="100.9" y="389.1">
+    <tspan x="100.9" y="389.1">Feature Branch</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="331.9" y="416.1">
+    <tspan x="331.9" y="416.1">FB1</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="433.329,390.1 450.471,390.1 461.9,401.529 461.9,418.671 450.471,430.1 433.329,430.1 421.9,418.671 421.9,401.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="433.329,390.1 450.471,390.1 461.9,401.529 461.9,418.671 450.471,430.1 433.329,430.1 421.9,418.671 421.9,401.529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="433.329,390.1 450.471,390.1 461.9,401.529 461.9,418.671 450.471,430.1 433.329,430.1 421.9,418.671 421.9,401.529 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="429.9" y="417.1">
+    <tspan x="429.9" y="417.1">FB2</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="378.852" y="117.052">
+    <tspan x="378.852" y="117.052">B</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="310.896" y1="116.067" x2="348.164" y2="116.093"/>
+    <polygon style="fill: #000000" points="355.664,116.098 345.66,121.091 348.164,116.093 345.667,111.091 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="355.664,116.098 345.66,121.091 348.164,116.093 345.667,111.091 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="295.996" y1="359.979" x2="320.488" y2="387.791"/>
+    <polygon style="fill: #000000" points="325.445,393.42 315.083,389.219 320.488,387.791 322.588,382.61 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="325.445,393.42 315.083,389.219 320.488,387.791 322.588,382.61 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="360.9" y1="411.1" x2="411.168" y2="411.071"/>
+    <polygon style="fill: #000000" points="418.668,411.066 408.671,416.072 411.168,411.071 408.665,406.072 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="418.668,411.066 408.671,416.072 411.168,411.071 408.665,406.072 "/>
+  </g>
+</svg>
