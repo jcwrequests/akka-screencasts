@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="17cm" viewBox="87 85 436 340" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="276.229,86.2 293.371,86.2 304.8,97.6286 304.8,114.771 293.371,126.2 276.229,126.2 264.8,114.771 264.8,97.6286 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="276.229,86.2 293.371,86.2 304.8,97.6286 304.8,114.771 293.371,126.2 276.229,126.2 264.8,114.771 264.8,97.6286 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="276.229,86.2 293.371,86.2 304.8,97.6286 304.8,114.771 293.371,126.2 276.229,126.2 264.8,114.771 264.8,97.6286 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="281.229,317.2 298.371,317.2 309.8,328.629 309.8,345.771 298.371,357.2 281.229,357.2 269.8,345.771 269.8,328.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="281.229,317.2 298.371,317.2 309.8,328.629 309.8,345.771 298.371,357.2 281.229,357.2 269.8,345.771 269.8,328.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1.9812; stroke: #000000" points="281.229,317.2 298.371,317.2 309.8,328.629 309.8,345.771 298.371,357.2 281.229,357.2 269.8,345.771 269.8,328.629 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="87.8" y="115.2">
+    <tspan x="87.8" y="115.2">Akka.net Dev Branch</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="95.8" y="332.2">
+    <tspan x="95.8" y="332.2">Forked Copy</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="327.229,382.2 344.371,382.2 355.8,393.629 355.8,410.771 344.371,422.2 327.229,422.2 315.8,410.771 315.8,393.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="327.229,382.2 344.371,382.2 355.8,393.629 355.8,410.771 344.371,422.2 327.229,422.2 315.8,410.771 315.8,393.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="327.229,382.2 344.371,382.2 355.8,393.629 355.8,410.771 344.371,422.2 327.229,422.2 315.8,410.771 315.8,393.629 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="364.229,86.2 381.371,86.2 392.8,97.6286 392.8,114.771 381.371,126.2 364.229,126.2 352.8,114.771 352.8,97.6286 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="364.229,86.2 381.371,86.2 392.8,97.6286 392.8,114.771 381.371,126.2 364.229,126.2 352.8,114.771 352.8,97.6286 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="364.229,86.2 381.371,86.2 392.8,97.6286 392.8,114.771 381.371,126.2 364.229,126.2 352.8,114.771 352.8,97.6286 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="281.8" y="110.2">
+    <tspan x="281.8" y="110.2">A</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="290.752" y="338.152">
+    <tspan x="290.752" y="338.152">A</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="95.8" y="380.2">
+    <tspan x="95.8" y="380.2">Feature Branch</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="326.8" y="407.2">
+    <tspan x="326.8" y="407.2">FB1</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="410.229,384.2 427.371,384.2 438.8,395.629 438.8,412.771 427.371,424.2 410.229,424.2 398.8,412.771 398.8,395.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="410.229,384.2 427.371,384.2 438.8,395.629 438.8,412.771 427.371,424.2 410.229,424.2 398.8,412.771 398.8,395.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="410.229,384.2 427.371,384.2 438.8,395.629 438.8,412.771 427.371,424.2 410.229,424.2 398.8,412.771 398.8,395.629 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="408.8" y="409.2">
+    <tspan x="408.8" y="409.2">FB2</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="493.229,382.2 510.371,382.2 521.8,393.629 521.8,410.771 510.371,422.2 493.229,422.2 481.8,410.771 481.8,393.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="493.229,382.2 510.371,382.2 521.8,393.629 521.8,410.771 510.371,422.2 493.229,422.2 481.8,410.771 481.8,393.629 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="493.229,382.2 510.371,382.2 521.8,393.629 521.8,410.771 510.371,422.2 493.229,422.2 481.8,410.771 481.8,393.629 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="447.229,86.2 464.371,86.2 475.8,97.6286 475.8,114.771 464.371,126.2 447.229,126.2 435.8,114.771 435.8,97.6286 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.229,86.2 464.371,86.2 475.8,97.6286 475.8,114.771 464.371,126.2 447.229,126.2 435.8,114.771 435.8,97.6286 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.229,86.2 464.371,86.2 475.8,97.6286 475.8,114.771 464.371,126.2 447.229,126.2 435.8,114.771 435.8,97.6286 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="373.752" y="107.152">
+    <tspan x="373.752" y="107.152">B</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="451.8" y="110.2">
+    <tspan x="451.8" y="110.2">C</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="492.8" y="405.2">
+    <tspan x="492.8" y="405.2">FB3</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="304.8" y1="106.2" x2="342.057" y2="106.715"/>
+    <polygon style="fill: #000000" points="349.556,106.818 339.488,111.68 342.057,106.715 339.626,101.681 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="349.556,106.818 339.488,111.68 342.057,106.715 339.626,101.681 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="392.8" y1="106.2" x2="425.081" y2="106.681"/>
+    <polygon style="fill: #000000" points="432.58,106.792 422.506,111.643 425.081,106.681 422.655,101.644 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="432.58,106.792 422.506,111.643 425.081,106.681 422.655,101.644 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="302.365" y1="354.561" x2="317.916" y2="376.535"/>
+    <polygon style="fill: #000000" points="322.248,382.657 312.39,377.383 317.916,376.535 320.553,371.606 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="322.248,382.657 312.39,377.383 317.916,376.535 320.553,371.606 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="355.8" y1="402.2" x2="389.074" y2="403.748"/>
+    <polygon style="fill: #000000" points="396.566,404.096 386.345,408.626 389.074,403.748 386.809,398.637 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="396.566,404.096 386.345,408.626 389.074,403.748 386.809,398.637 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="438.8" y1="404.2" x2="472.074" y2="402.652"/>
+    <polygon style="fill: #000000" points="479.566,402.304 469.809,407.763 472.074,402.652 469.345,397.774 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="479.566,402.304 469.809,407.763 472.074,402.652 469.345,397.774 "/>
+  </g>
+</svg>
